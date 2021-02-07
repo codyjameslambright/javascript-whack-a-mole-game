@@ -71,8 +71,8 @@ button {
 }
 
 .mole {
-  background: url('mole.svg') bottom center no-repeat;
-  background-size: 60%;
+  background: url('mole-head.svg') bottom center no-repeat;
+  background-size: 85%;
   position: absolute;
   top: 100%;
   width: 100%;
